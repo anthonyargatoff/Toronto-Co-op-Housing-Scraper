@@ -11,4 +11,3 @@ def send_email(subject, body, recipients):
         smtp_server.login("autoanthonyemailer@gmail.com", "fivbeibqffhhaxbz")
         smtp_server.sendmail("autoanthonyemailer@gmail.com",
                              recipients, msg.as_string())
-    print("Message sent to {}!".format(recipients))
