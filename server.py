@@ -1,7 +1,6 @@
 import time
 from scraping import *
 from send_email import *
-import keyboard
 
 starttime = time.time()
 recipients = ["anthonyargatoff@gmail.com", "mrkoolpants@gmail.com", "emily.denison3@gmail.com"]
@@ -15,6 +14,7 @@ while True:
         body = "One or more coops are available. View below:\n{}View the website here: https://co-ophousingtoronto.coop/resources/find-a-coop/".format(
             coop_string)
         send_email("Coop Available!", body, recipients)
+        print("Co-op vacancy found. Sending email to {}.".format(recipients))
     else:
         print("No co-op vacancies found. Time next search in {} seconds.".format(time_interval))
     
