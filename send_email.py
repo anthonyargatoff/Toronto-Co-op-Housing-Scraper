@@ -5,7 +5,7 @@ from email.mime.text import MIMEText
 def send_email(subject, body, recipients):
     msg = MIMEText(body)
     msg['Subject'] = subject
-    msg['From'] = sender
+    msg['From'] = "autoanthonyemailer@gmail.com"
     msg['To'] = ', '.join(recipients)
     with smtplib.SMTP_SSL('smtp.gmail.com', 465) as smtp_server:
         smtp_server.login("autoanthonyemailer@gmail.com", "fivbeibqffhhaxbz")

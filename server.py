@@ -13,4 +13,4 @@ while True:
     if (coop_bool):
         body = "One or more coops are available. View below:\n{}".format(
             coop_string)
-        send_email("Coop Available!")
+        send_email("Coop Available!", coop_string, recipients)
