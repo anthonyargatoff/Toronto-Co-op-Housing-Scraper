@@ -21,8 +21,6 @@ def get_vacancies():
     combined = {coop_names_text[i]: vacancies_text[i]
                 for i in range(len(coop_names_text))}
 
-    combined.update({"TestHouse": "Vacancies", "Test2": "Vacancies"})
-
     available_coops = {}
     for name, vacants in combined.items():
         if vacants != "No vacancies":
