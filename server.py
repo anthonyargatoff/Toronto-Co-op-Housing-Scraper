@@ -5,7 +5,7 @@ from send_email import *
 starttime = time.time()
 recipients = ["anthonyargatoff@gmail.com", "mrkoolpants@gmail.com", "emily.denison3@gmail.com"]
 time_interval = int(input("Enter search frequency in seconds:"))
-print("Server is running with frequency of {} seconds. Press 'q' to quit.".format(time_interval))
+print("Server is running with frequency of {} seconds.".format(time_interval))
 
 while True:
     time.sleep(time_interval - ((time.time() - starttime) % time_interval))
