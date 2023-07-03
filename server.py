@@ -4,8 +4,8 @@ from send_email import *
 
 starttime = time.time()
 recipients = ["anthonyargatoff@gmail.com", "mrkoolpants@gmail.com", "emily.denison3@gmail.com"]
-print("Server is running. Press 'q' to quit.")
-time_interval = 60 # time is in seconds
+time_interval = int(input("Enter search frequency in seconds:"))
+print("Server is running with frequency of {} seconds. Press 'q' to quit.".format(time_interval))
 
 while True:
     time.sleep(time_interval - ((time.time() - starttime) % time_interval))
@@ -14,7 +14,8 @@ while True:
         body = "One or more coops are available. View below:\n{}View the website here: https://co-ophousingtoronto.coop/resources/find-a-coop/".format(
             coop_string)
         send_email("Coop Available!", body, recipients)
-        print("Co-op vacancy found. Sending email to {}.".format(recipients))
+        print("Co-op vacancy found. Sending email to {}.\nNext Update in 24 hours\n".format(recipients))
+        time.sleep(86400)
     else:
-        print("No co-op vacancies found. Time next search in {} seconds.".format(time_interval))
+        print("No co-op vacancies found. Next search in {} seconds.".format(time_interval))
     
