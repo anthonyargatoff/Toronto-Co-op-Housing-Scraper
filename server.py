@@ -14,7 +14,7 @@ while True:
         body = "One or more coops are available. View below:\n{}View the website here: https://co-ophousingtoronto.coop/resources/find-a-coop/".format(
             coop_string)
         send_email("Coop Available!", body, recipients)
-        print("Co-op vacancy found. Sending email to {}.\nNext Update in 24 hours\n".format(recipients))
+        print("Co-op vacancy found. Sending email to {}.\nNext Update in 12 hours\n".format(recipients))
         time.sleep(43200)
     else:
         print("No co-op vacancies found. Next search in {} seconds.".format(time_interval))
