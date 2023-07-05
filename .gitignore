@@ -2,3 +2,5 @@ web_scraping/
 __pycache__/
 email_addresses
 total_times_checked
+email_addresses.txt
+total_times_checked.txt
