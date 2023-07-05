@@ -44,7 +44,7 @@ def get_email(x):
     Args:
         x (_type_): list of strings
     """     
-    email_file = open("./email_addresses.txt", "r")
+    email_file = open("./email_addresses", "r")
     for email in email_file:
         if email.startswith("#"):
          None
@@ -57,7 +57,7 @@ recipients = []
 get_email(recipients)
 times_checked_weekly = 0
 
-open_total_times = open("./total_times_checked.txt", "r" )
+open_total_times = open("./total_times_checked", "r" )
 times_checked_total = int(open_total_times.read())
 open_total_times.close()
 
