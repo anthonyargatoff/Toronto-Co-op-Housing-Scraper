@@ -53,6 +53,18 @@ def get_email(x):
             x.append(email)
     email_file.close()
     
+def write_log(message):
+    """
+    For writing log files and printing to terminal
+
+    Args:
+        message (_type_): string
+    """    
+    file = open("log.txt", "a")
+    file.write(message + "\n")
+    print(message)
+    file.close
+
 recipients = []
 get_email(recipients)
 times_checked_weekly = 0
@@ -83,20 +95,27 @@ while True:
         open_total_times.write(times_checked_total)
         open_total_times.close        
         negative_results, positive_results, times_checked_weekly = 0
+        
+        write_log("Weekly report sent at {}".format(get_time()))
     
     if( check_sent_admin_email == True and get_week_day() != "Sunday"):
+        
         check_sent_admin_email = False
+        write_log("Admin boolean set to false at {}".format(get_time()))
         
     if (coop_bool):
+        
         body = "One or more coops are available. View below:\n{}View the website here: https://co-ophousingtoronto.coop/resources/find-a-coop/".format(
             coop_string)
         send_email("Toronto Co-op Housing Search: Coop Available!", body, recipients)
-        print("System Time: {}. Co-op vacancy found. Sending email to {}. Next Update in 12 hours\n".format(get_time(), recipients))
+        write_log("System Time: {}. Co-op vacancy found. Sending email to {}. Next Update in 12 hours\n".format(get_time(), recipients))
+
         positive_results += 1
         times_checked_weekly += 1
         time.sleep(43200)
     else:
-        print("System Time: {}. No co-op vacancies found. Next search in {:.0f} minutes.".format(get_time(), time_interval))
+        
+        write_log("System Time: {}. No co-op vacancies found. Next search in {:.0f} minutes.".format(get_time(), time_interval))
         times_checked_weekly += 1
         negative_results += 1
         time.sleep((time_interval * 60 ) - ((time.time() - starttime) % (60 *time_interval)))
