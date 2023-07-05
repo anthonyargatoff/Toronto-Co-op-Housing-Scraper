@@ -115,7 +115,7 @@ while True:
         time.sleep(43200)
     else:
         
-        write_log("System Time: {}. No co-op vacancies found. Next search in {:.0f} minutes.".format(get_time(), time_interval))
+        write_log("System: {}. No co-op vacancies found. Next search in {:.0f} minutes.".format(get_time(), time_interval))
         times_checked_weekly += 1
         negative_results += 1
         time.sleep((time_interval * 60 ) - ((time.time() - starttime) % (60 *time_interval)))
