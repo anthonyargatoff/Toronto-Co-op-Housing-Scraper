@@ -19,7 +19,7 @@ def get_time():
     Gets full date in yyyy/mm/dd hh:mm format
 
     Returns:
-        _type_: string
+        Strings: YYYY/MM/DD HH:MM
     """    
     now = datetime.now()
     current_time = now.strftime("Date: %Y/%m/%d Time: %H:%M")
@@ -30,7 +30,7 @@ def get_week_day():
     Gets the Day of the week in a string
 
     Returns:
-        _type_: string
+        String: Returns full weekday name
     """    
     now = datetime.now()
     week_day = now.strftime("%A")
@@ -41,7 +41,7 @@ def check_time():
     Return the time in 24 hour clock format of %H
 
     Returns:
-        _type_: int
+        Int: Returns int of current time
     """    
     now = datetime.now()
     check_time = now.strftime("%-H")
@@ -53,7 +53,7 @@ def get_email(x):
     Create a list of emails from the email_addresses.txt file
 
     Args:
-        x (_type_): list of strings
+        x (list[str]): List of strings
     """     
     email_file = open("./email_addresses.txt", "r")
     for email in email_file:
@@ -69,7 +69,7 @@ def write_log(message):
     For writing log files and printing to terminal
 
     Args:
-        message (_type_): string
+        message (String): Prints to terminal and log.txt
     """    
     file = open("log.txt", "a")
     file.write(message + "\n")
@@ -81,12 +81,9 @@ def edit_counter(total, total_positive, total_negative):
     Adds the new totals to the counter.txt file
 
     Args:
-        total (_type_): int
-        total_positive (_type_): int
-        total_negative (_type_): int
-
-    Returns:
-        _type_: _description_
+        total (int): Total counts
+        total_positive (int): total positive counts
+        total_negative (int): total negative counts
     """    
     with open("./counter.txt", 'r') as f:
         lines = f.readlines()
@@ -97,11 +94,10 @@ def edit_counter(total, total_positive, total_negative):
     with open("./counter.txt", "w") as f:
         f.writelines(lines)
         f.close()
-        
-    return None
     
 create_txt_files()
 recipients = []
+admin_email = "anthonyargatoff@gmail.com"
 get_email(recipients)
 
 
@@ -133,10 +129,13 @@ while True:
         admin_body = "Here is the weekly report:\nInterval of search: {} minutes\nTimes searched this week: {}\nCo-op vacancies found this week: {}\nNo co-op vacancies found this week: {}\nTotal amount of co-ops found: {}\nTotal amount of co-ops not found: {}\nTotal times searched: {}\nPercentage of co-ops found: {}%\nSent at {} PST".format(time_interval, times_checked_weekly, weekly_positive_results, weekly_negative_results, total_positive_results, total_negative_results, total_times_checked, total_positive_results/total_times_checked, get_time())
         send_email("Toronto Co-op Housing Search: Weekly Report", admin_body, recipients)
         check_sent_admin_email = True
-        
+
         edit_counter(total_times_checked, total_positive_results, total_negative_results)
         weekly_negative_results, weekly_positive_results, times_checked_weekly = 0
+        
         write_log("Weekly report sent at {}".format(get_time()))
+        send_email("Toronto Co-op Housing Search: Admin Report", get_test_results(), admin_email)
+        write_log("Sent admin email at {}".format(get_time()))
     
     if( check_sent_admin_email == True and get_week_day() != "Sunday"):
         
