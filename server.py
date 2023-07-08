@@ -48,21 +48,26 @@ def check_time():
     check_time = int(check_time)
     return check_time
 
-def get_email(x):
+def get_email(email_text_file):
     """
     Create a list of emails from the email_addresses.txt file
 
     Args:
-        x (list[str]): List of strings
+        x (list[str]): List of emails addresses.
+        
+    Returns:
+        List[str]: Returns a list of strings with emails from text file.
     """     
-    email_file = open("./email_addresses.txt", "r")
+    email_file = open(email_text_file, "r")
+    email_list = []
     for email in email_file:
         if email.startswith("#"):
          None
         else:
             email = email.replace("\n", "")
-            x.append(email)
+            email_list.append(email)
     email_file.close()
+    return email_list
     
 def write_log(message):
     """
@@ -96,10 +101,10 @@ def edit_counter(total, total_positive, total_negative):
         f.close()
     
 create_txt_files()
-recipients = []
+recipients = get_email("./email_addresses.txt")
 admin_email = "anthonyargatoff@gmail.com"
-get_email(recipients)
 
+print(recipients)
 
 open_counter = open("./counter.txt", "r" )
 counter = open_counter.readlines()
@@ -121,6 +126,8 @@ while True:
     coop_bool, coop_string = get_vacancies()    
     
     if ( get_week_day() == "Sunday" and check_time() >= 9 and check_sent_admin_email == False):
+        
+        recipients = get_email("./email_addresses") # updates email list every week.
         
         total_times_checked += times_checked_weekly
         total_negative_results += weekly_negative_results
