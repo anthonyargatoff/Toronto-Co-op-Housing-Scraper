@@ -81,44 +81,81 @@ def write_log(message):
     print(message)
     file.close
 
-def edit_counter(total, total_positive, total_negative):
+def edit_counter(total_to_add:int, total_positive_to_add:int, total_negative_to_add:int):
     """
-    Adds the new totals to the counter.txt file
+    Sums the entered args with the current values in counter.text file.
 
     Args:
-        total (int): Total counts
-        total_positive (int): total positive counts
-        total_negative (int): total negative counts
+        total_to_add (int): The new total to add
+        total_positive_to_add (int): Total positive occurrences
+        total_negative_to_add (int): Total negative occurrences
     """    
     with open("./counter.txt", 'r') as f:
-        lines = f.readlines()
+        lines_from_file = f.readlines()
         f.close()
     
-    lines[0], lines[1], lines[2] = (str(total) + "\n"), (str(total_positive) + "\n"), (str(total_negative) + "\n") 
+    lines_list = []
+    for line in lines_from_file:
+        if line.startswith("#"):
+            None
+        else:
+            line = line.replace("\n", "")
+            lines_list.append(line)
+   
+    line_list_int = []
+    for lines in lines_list:
+        line_list_int.append(int(lines))
+        
+    to_add = [total_to_add, total_positive_to_add, total_negative_to_add]
+    
+    for i in range(len(line_list_int)):
+        line_list_int[i] += to_add[i]
+    
+    lines_list = []
+    for line_int in line_list_int: # change back to string
+        lines_list.append(str(line_int) + "\n")
     
     with open("./counter.txt", "w") as f:
-        f.writelines(lines)
+        f.writelines(lines_list)
+        f.close()
+
+def get_counter(text_file):
+    """
+    Gets the values from the counter.txt file.
+
+    Args:
+        text_file (txt file): Test file.
+    Returns:
+        int: The integer values read from the text file.
+    """    
+    with open(text_file, 'r') as f:
+        lines_from_file = f.readlines()
         f.close()
     
+    lines_list = []
+    for line in lines_from_file:
+        if line.startswith("#"):
+            None
+        else:
+            line = line.replace("\n", "")
+            lines_list.append(line)
+   
+    line_list_int = []
+    for lines in lines_list:
+        line_list_int.append(int(lines))
+        
+    return line_list_int[0], line_list_int[1], line_list_int[2]
+
 create_txt_files()
 recipients = get_email("./email_addresses.txt")
 admin_email = "anthonyargatoff@gmail.com"
-
-print(recipients)
-
-open_counter = open("./counter.txt", "r" )
-counter = open_counter.readlines()
-total_times_checked = int(counter[0])
-total_negative_results = int(counter[2])
-total_positive_results = int(counter[1])
-open_counter.close()
 
 times_checked_weekly = 0
 weekly_positive_results = 0
 weekly_negative_results = 0
 check_sent_admin_email = False
 
-starttime = time.time()
+start_time = time.time()
 time_interval = float(input("Enter search frequency in minutes:"))
 print("Server is running with frequency of {:.0f} minutes.".format(time_interval))
 
@@ -129,15 +166,14 @@ while True:
         
         recipients = get_email("./email_addresses") # updates email list every week.
         
-        total_times_checked += times_checked_weekly
-        total_negative_results += weekly_negative_results
-        total_positive_results += weekly_positive_results
         
-        admin_body = "Here is the weekly report:\nInterval of search: {} minutes\nTimes searched this week: {}\nCo-op vacancies found this week: {}\nNo co-op vacancies found this week: {}\nTotal amount of co-ops found: {}\nTotal amount of co-ops not found: {}\nTotal times searched: {}\nPercentage of co-ops found: {}%\nSent at {} PST".format(time_interval, times_checked_weekly, weekly_positive_results, weekly_negative_results, total_positive_results, total_negative_results, total_times_checked, total_positive_results/total_times_checked, get_time())
-        send_email("Toronto Co-op Housing Search: Weekly Report", admin_body, recipients)
+        edit_counter(times_checked_weekly, weekly_positive_results, weekly_negative_results)
+        total_times_checked, total_positive_results, total_negative_results = get_counter("./counter.txt")
+        
+        weekly_message_body = "Here is the weekly report:\nInterval of search: {} minutes\nTimes searched this week: {}\nCo-op vacancies found this week: {}\nNo co-op vacancies found this week: {}\nTotal amount of co-ops found: {}\nTotal amount of co-ops not found: {}\nTotal times searched: {}\nPercentage of co-ops found: {}%\nSent at {} PST".format(time_interval, times_checked_weekly, weekly_positive_results, weekly_negative_results, total_positive_results, total_negative_results, total_times_checked, total_positive_results/total_times_checked, get_time())
+        send_email("Toronto Co-op Housing Search: Weekly Report", weekly_message_body, recipients)
         check_sent_admin_email = True
 
-        edit_counter(total_times_checked, total_positive_results, total_negative_results)
         weekly_negative_results, weekly_positive_results, times_checked_weekly = 0
         
         write_log("Weekly report sent at {}".format(get_time()))
@@ -164,5 +200,5 @@ while True:
         write_log("System: {}. No co-op vacancies found. Next search in {:.0f} minutes.".format(get_time(), time_interval))
         times_checked_weekly += 1
         weekly_negative_results += 1
-        time.sleep((time_interval * 60 ) - ((time.time() - starttime) % (60 *time_interval)))
+        time.sleep((time_interval * 60 ) - ((time.time() - start_time) % (60 *time_interval)))
     
