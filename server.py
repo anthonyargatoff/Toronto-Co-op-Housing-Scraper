@@ -44,7 +44,7 @@ def check_time():
         Int: Returns int of current time
     """    
     now = datetime.now()
-    check_time = now.strftime("%-H")
+    check_time = now.strftime("%H")
     check_time = int(check_time)
     return check_time
 
