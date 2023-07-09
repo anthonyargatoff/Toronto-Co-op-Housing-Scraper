@@ -30,7 +30,7 @@ def get_test_results():
     for name, vacant in combined.items():
         test_results_string += name + ": " + vacant + "\n"
         
-    test_results_string = "Number of co-ops: {}. Number of Vacancies: {}.".format(len(coop_names), len(vacancies)) + test_results_string
+    test_results_string = "Number of co-ops: {}. Number of Vacancies: {}.".format(len(coop_names), len(vacancies)) + "\n" + test_results_string
     
     return test_results_string
     
