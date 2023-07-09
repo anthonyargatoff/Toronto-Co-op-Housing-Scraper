@@ -177,7 +177,7 @@ while True:
         edit_counter(times_checked_weekly, weekly_positive_results, weekly_negative_results)
         total_times_checked, total_positive_results, total_negative_results = get_counter("./counter.txt")
         
-        weekly_message_body = "Here is the weekly report:\nInterval of search: {:.0f} minutes\nTimes searched this week: {}\nCo-op vacancies found this week: {}\nNo co-op vacancies found this week: {}\nTotal amount of co-ops found: {}\nTotal amount of co-ops not found: {}\nTotal times searched: {}\nPercentage of co-ops found: {:.0f}%\nSent at {} PST".format(time_interval, times_checked_weekly, weekly_positive_results, weekly_negative_results, total_positive_results, total_negative_results, total_times_checked, get_percentage(total_positive_results, total_times_checked), get_time())
+        weekly_message_body = "Here is the weekly report:\nInterval of search: {:.0f} minutes\nTimes searched this week: {}\nCo-op vacancies found this week: {}\nNo co-op vacancies found this week: {}\nTotal amount of co-ops found: {}\nTotal amount of co-ops not found: {}\nTotal times searched: {}\nPercentage of co-ops found: {:.5f}%\nSent at {} PST".format(time_interval, times_checked_weekly, weekly_positive_results, weekly_negative_results, total_positive_results, total_negative_results, total_times_checked, get_percentage(total_positive_results, total_times_checked), get_time())
         send_email("Toronto Co-op Housing Search: Weekly Report", weekly_message_body, recipients)
         
         weekly_negative_results = weekly_positive_results = times_checked_weekly = 0
