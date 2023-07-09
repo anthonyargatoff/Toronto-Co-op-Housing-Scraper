@@ -146,6 +146,12 @@ def get_counter(text_file):
         
     return line_list_int[0], line_list_int[1], line_list_int[2]
 
+def get_percentage(numerator, denominator):
+    if denominator == 0:
+        return 0
+    else:
+        return ((numerator / denominator) * 100)
+    
 create_txt_files()
 recipients = get_email("./email_addresses.txt")
 admin_email = "anthonyargatoff@gmail.com"
