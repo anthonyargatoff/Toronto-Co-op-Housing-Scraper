@@ -180,7 +180,7 @@ while True:
         send_email("Toronto Co-op Housing Search: Weekly Report", weekly_message_body, recipients)
         check_sent_admin_email = True
 
-        weekly_negative_results, weekly_positive_results, times_checked_weekly = 0
+        weekly_negative_results = weekly_positive_results = times_checked_weekly = 0
         
         write_log("Weekly report sent at {}".format(get_time()))
         send_email("Toronto Co-op Housing Search: Admin Report", get_test_results(), admin_email)
