@@ -164,7 +164,7 @@ while True:
     
     if ( get_week_day() == "Sunday" and check_time() >= 9 and check_sent_admin_email == False):
         
-        recipients = get_email("./email_addresses") # updates email list every week.
+        recipients = get_email("./email_addresses.txt") # updates email list every week.
         
         
         edit_counter(times_checked_weekly, weekly_positive_results, weekly_negative_results)
