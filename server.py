@@ -170,16 +170,16 @@ while True:
     
     if ( get_week_day() == "Sunday" and check_time() >= 9 and check_sent_admin_email == False):
         
+        check_sent_admin_email = True
         recipients = get_email("./email_addresses.txt") # updates email list every week.
         
         
         edit_counter(times_checked_weekly, weekly_positive_results, weekly_negative_results)
         total_times_checked, total_positive_results, total_negative_results = get_counter("./counter.txt")
         
-        weekly_message_body = "Here is the weekly report:\nInterval of search: {} minutes\nTimes searched this week: {}\nCo-op vacancies found this week: {}\nNo co-op vacancies found this week: {}\nTotal amount of co-ops found: {}\nTotal amount of co-ops not found: {}\nTotal times searched: {}\nPercentage of co-ops found: {}%\nSent at {} PST".format(time_interval, times_checked_weekly, weekly_positive_results, weekly_negative_results, total_positive_results, total_negative_results, total_times_checked, get_percentage(total_positive_results, total_times_checked), get_time())
+        weekly_message_body = "Here is the weekly report:\nInterval of search: {:.0f} minutes\nTimes searched this week: {}\nCo-op vacancies found this week: {}\nNo co-op vacancies found this week: {}\nTotal amount of co-ops found: {}\nTotal amount of co-ops not found: {}\nTotal times searched: {}\nPercentage of co-ops found: {:.0f}%\nSent at {} PST".format(time_interval, times_checked_weekly, weekly_positive_results, weekly_negative_results, total_positive_results, total_negative_results, total_times_checked, get_percentage(total_positive_results, total_times_checked), get_time())
         send_email("Toronto Co-op Housing Search: Weekly Report", weekly_message_body, recipients)
-        check_sent_admin_email = True
-
+        
         weekly_negative_results = weekly_positive_results = times_checked_weekly = 0
         
         write_log("Weekly report sent at {}".format(get_time()))
