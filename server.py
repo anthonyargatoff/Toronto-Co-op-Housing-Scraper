@@ -232,7 +232,7 @@ while True:
 
         else:
             coop_test = coop_string
-            body = "One or more coops are available. View below:\n{}View the website here: https://co-ophousingtoronto.coop/resources/find-a-coop/".format(
+            body = "One or more co-ops are available. View below:\n{}View the website here: https://co-ophousingtoronto.coop/resources/find-a-coop/".format(
                 coop_string)
             send_email(
                 "Toronto Co-op Housing Search: Coop Available!", body, recipients)
