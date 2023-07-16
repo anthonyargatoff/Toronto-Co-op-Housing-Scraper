@@ -200,18 +200,14 @@ while True:
     if (get_week_day() == "Sunday" and check_time() >= 9 and check_sent_admin_email == False):
 
         check_sent_admin_email = True
-
         # updates email list every week.
         recipients = get_email("./email_addresses.txt")
-
         total_times_checked, total_positive_results, total_negative_results = get_counter(
             "./counter.txt")
-
         weekly_message_body = "Here is the weekly report:\nTotal searches: {}\nInstances where a search found an available co-op: {}\nInstances where a search did not find an available co-op: {}\nPercentage of co-ops found over the times searched: {:.2f}%\nSent at {} PST".format(
             total_times_checked, total_positive_results, total_negative_results, get_percentage(total_positive_results, total_times_checked), get_time())
         send_email("Toronto Co-op Housing Search: Weekly Report",
                    weekly_message_body, recipients)
-
         write_log("Weekly report sent at {} to {}".format(
             get_time(), recipients))
         send_email("Toronto Co-op Housing Search: Admin Report",
@@ -221,6 +217,7 @@ while True:
 
     if (check_sent_admin_email == True and get_week_day() != "Sunday"):
 
+        recipients = get_email("./email_addresses.txt")
         check_sent_admin_email = False
         write_log("Admin boolean set to false at {}".format(get_time()))
 
@@ -239,7 +236,7 @@ while True:
             send_email(
                 "Toronto Co-op Housing Search: Coop Available!", body, recipients)
             write_log(
-                "System Time: {}. Co-op vacancy found. Sending email to {}. Next search in {:.0f} minutes.\n".format(get_time(), recipients, time_interval))
+                "System Time: {}. Co-op vacancy found. Sending email to {}. Next search in {:.0f} minutes.".format(get_time(), recipients, time_interval))
             edit_counter(1, 1, 0)
             wait_time(time_interval)
 
