@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
+
 def get_test_results():
     """
     Gets the test results of the web scrapper as to ensure smooth operation.
@@ -25,15 +26,16 @@ def get_test_results():
 
     combined = {coop_names_text[i]: vacancies_text[i]
                 for i in range(len(coop_names_text))}
-    
+
     test_results_string = ""
     for name, vacant in combined.items():
         test_results_string += name + ": " + vacant + "\n"
-        
-    test_results_string = "Number of co-ops: {}. Number of Vacancies: {}.".format(len(coop_names), len(vacancies)) + "\n" + test_results_string
-    
+
+    test_results_string = "Length of list of co-ops: {}. Length of list of vacancies: {}.".format(
+        len(coop_names), len(vacancies)) + "\n" + test_results_string
+
     return test_results_string
-    
+
 
 def get_vacancies():
     """
@@ -42,8 +44,8 @@ def get_vacancies():
     Returns:
         Boolean: True if there are houses, false if not.
         String: If true, returns a list of available co-ops.
-        
-    """    
+
+    """
     URL = "https://co-ophousingtoronto.coop/resources/find-a-coop/"
     page = requests.get(URL)
     soup = BeautifulSoup(page.content, 'html.parser')
