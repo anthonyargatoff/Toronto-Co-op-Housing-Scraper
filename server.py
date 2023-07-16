@@ -207,15 +207,17 @@ while True:
         total_times_checked, total_positive_results, total_negative_results = get_counter(
             "./counter.txt")
 
-        weekly_message_body = "Here is the weekly report:\nTotal amount of co-ops found: {}\nTotal amount of co-ops not found: {}\nTotal times searched: {}\nPercentage of co-ops found: {:.5f}%\nSent at {} PST".format(
-            total_positive_results, total_negative_results, total_times_checked, get_percentage(total_positive_results, total_times_checked), get_time())
+        weekly_message_body = "Here is the weekly report:\nTotal searches: {}\nInstances where a search found an available co-op: {}\nInstances where a search did not find an available co-op: {}\nPercentage of co-ops found over the times searched: {:.2f}%\nSent at {} PST".format(
+            total_times_checked, total_positive_results, total_negative_results, get_percentage(total_positive_results, total_times_checked), get_time())
         send_email("Toronto Co-op Housing Search: Weekly Report",
                    weekly_message_body, recipients)
 
-        # write_log("Weekly report sent at {}".format(get_time()))
+        write_log("Weekly report sent at {} to {}".format(
+            get_time(), recipients))
         send_email("Toronto Co-op Housing Search: Admin Report",
                    get_test_results(), admin_email)
-        write_log("Sent admin email at {}".format(get_time()))
+        write_log("Sent admin email at {} to {}".format(
+            get_time(), admin_email))
 
     if (check_sent_admin_email == True and get_week_day() != "Sunday"):
 
