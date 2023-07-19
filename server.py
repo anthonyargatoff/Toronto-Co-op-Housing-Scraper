@@ -231,12 +231,12 @@ while True:
 
         else:
             coop_test = coop_string
-            body = "One or more co-ops are available. View below:\n{}View the website here: https://co-ophousingtoronto.coop/resources/find-a-coop/".format(
+            email_body_cp_avail = "One or more co-ops are available. View below:\n{}View the website here: https://co-ophousingtoronto.coop/resources/find-a-coop/".format(
                 coop_string)
             send_email(
-                "Toronto Co-op Housing Search: Coop Available!", body, recipients)
+                "Toronto Co-op Housing Search: Coop Available!", email_body_cp_avail, recipients)
             write_log(
-                "System Time: {}. Co-op vacancy found. Sending email to {}. Next search in {:.0f} minutes.".format(get_time(), recipients, time_interval))
+                "System: {}. Co-op vacancy found. Sending email to {}. Next search in {:.0f} minutes.".format(get_time(), recipients, time_interval))
             edit_counter(1, 1, 0)
             wait_time(time_interval)
 
