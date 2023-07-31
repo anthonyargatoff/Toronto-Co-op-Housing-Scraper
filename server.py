@@ -88,14 +88,12 @@ def write_log(message):
     file.close
 
 
-def edit_counter(total_to_add: int, total_positive_to_add: int, total_negative_to_add: int):
+def sum_counter(add: int):
     """
     Sums the entered args with the current values in counter.text file.
 
     Args:
-        total_to_add (int): The new total to add
-        total_positive_to_add (int): Total positive occurrences
-        total_negative_to_add (int): Total negative occurrences
+        add (int): New value to add to the counter. 
     """
     with open("./counter.txt", 'r') as f:
         lines_from_file = f.readlines()
@@ -103,17 +101,14 @@ def edit_counter(total_to_add: int, total_positive_to_add: int, total_negative_t
 
     lines_list = []
     for line in lines_from_file:
-        if line.startswith("#"):
-            None
-        else:
-            line = line.replace("\n", "")
-            lines_list.append(line)
+        line = line.replace("\n", "")
+        lines_list.append(line)
 
     line_list_int = []
     for lines in lines_list:
         line_list_int.append(int(lines))
 
-    to_add = [total_to_add, total_positive_to_add, total_negative_to_add]
+    to_add = [add]
 
     for i in range(len(line_list_int)):
         line_list_int[i] += to_add[i]
@@ -134,7 +129,7 @@ def get_counter(text_file):
     Args:
         text_file (txt file): Test file.
     Returns:
-        int: The integer values read from the text file. 1 is total times checked, 2 is total times results found, 3 is total times results not found
+        int: The integer values read from the text file. 1 is weekly total, 2 is overall total.
     """
     with open(text_file, 'r') as f:
         lines_from_file = f.readlines()
@@ -142,17 +137,14 @@ def get_counter(text_file):
 
     lines_list = []
     for line in lines_from_file:
-        if line.startswith("#"):
-            None
-        else:
-            line = line.replace("\n", "")
-            lines_list.append(line)
+        line = line.replace("\n", "")
+        lines_list.append(line)
 
     line_list_int = []
     for lines in lines_list:
         line_list_int.append(int(lines))
 
-    return line_list_int[0], line_list_int[1], line_list_int[2]
+    return line_list_int[0]
 
 
 def get_percentage(numerator: int, denominator: int):
@@ -188,6 +180,8 @@ recipients = get_email("./email_addresses.txt")
 admin_email = "anthonyargatoff@gmail.com"
 check_sent_admin_email = False
 coop_test = None
+weekly_total = int()
+total = int()
 
 start_time = time.time()
 time_interval = float(input("Enter search frequency in minutes:"))
@@ -199,21 +193,15 @@ while True:
 
     if (get_week_day() == "Sunday" and check_time() >= 9 and check_sent_admin_email == False):
 
+        weekly_admin_body = "Here is the weekly report:\nTotal searches this week: {}\nTotal searches: {}\nSent at {} PST".format(weekly_total,
+                                                                                                                                  get_counter("./counter.txt"), get_time())
         check_sent_admin_email = True
-        # updates email list every week.
-        recipients = get_email("./email_addresses.txt")
-        total_times_checked, total_positive_results, total_negative_results = get_counter(
-            "./counter.txt")
-        weekly_message_body = "Here is the weekly report:\nTotal searches: {}\nInstances where a search found an available co-op: {}\nInstances where a search did not find an available co-op: {}\nPercentage of co-ops found over the times searched: {:.2f}%\nSent at {} PST".format(
-            total_times_checked, total_positive_results, total_negative_results, get_percentage(total_positive_results, total_times_checked), get_time())
-        send_email("Toronto Co-op Housing Search: Weekly Report",
-                   weekly_message_body, recipients)
-        write_log("Weekly report sent at {} to {}".format(
-            get_time(), recipients))
+        sum_counter(weekly_total)
         send_email("Toronto Co-op Housing Search: Admin Report",
-                   get_test_results(), admin_email)
+                   weekly_admin_body + "\n" + "\n" + get_test_results(), admin_email)
         write_log("Sent admin email at {} to {}".format(
             get_time(), admin_email))
+        weekly_total = 0
 
     if (check_sent_admin_email == True and get_week_day() != "Sunday"):
 
@@ -226,7 +214,7 @@ while True:
         if (coop_string == coop_test):
             write_log(
                 "System: {}. Co-ops are available, but no new co-ops were found. Next search in {:.0f} minutes.".format(get_time(), time_interval))
-            edit_counter(1, 1, 0)
+            weekly_total += 1
             wait_time(time_interval)
 
         else:
@@ -237,12 +225,12 @@ while True:
                 "Toronto Co-op Housing Search: Coop Available!", email_body_cp_avail, recipients)
             write_log(
                 "System: {}. Co-op vacancy found. Sending email to {}. Next search in {:.0f} minutes.".format(get_time(), recipients, time_interval))
-            edit_counter(1, 1, 0)
+            weekly_total += 1
             wait_time(time_interval)
 
     else:
         coop_test = None
         write_log(
             "System: {}. No co-op vacancies found. Next search in {:.0f} minutes.".format(get_time(), time_interval))
-        edit_counter(1, 0, 1)
+        weekly_total += 1
         wait_time(time_interval)
