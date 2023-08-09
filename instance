@@ -1,0 +1,19 @@
+#! /usr/bin/bash
+
+if [ $1 = "stop" ]
+then
+    pid=$(pgrep -f "python3 ./server.py")
+    if [ -z "$pid" ]; then
+    echo "Process not found."
+    else
+    echo "Process found with PID: $pid. Killing process."
+    kill $pid
+    fi
+elif [ $1 = "start" ]
+then
+    nohup python3 ./server.py > output.log 2>&1 &
+    pid=$!
+    echo "Starting on PID: $pid" 
+else
+    echo "Unrecognized option. Use 'start' or 'stop'."
+fi
