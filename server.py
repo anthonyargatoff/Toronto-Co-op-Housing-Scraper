@@ -195,48 +195,54 @@ print("Server is running with frequency of {:.0f} minutes.".format(
     time_interval))
 
 while True:
-    coop_bool, coop_string = get_vacancies()
+    try:
+        coop_bool, coop_string = get_vacancies()
 
-    if (get_week_day() == "Sunday" and check_time() >= 9 and check_sent_admin_email == False):
+        if (get_week_day() == "Sunday" and check_time() >= 9 and check_sent_admin_email == False):
 
-        weekly_admin_body = "Here is the weekly report:\nTotal searches this week: {}\nTotal searches: {}\nSent at {} PST".format(get_counter("./counter.txt")[1],
-                                                                                                                                  get_counter("./counter.txt")[0], get_time())
-        check_sent_admin_email = True
-        sum_counter(get_counter("counter.txt")[1], 0, "./counter.txt")
-        send_email("Toronto Co-op Housing Search: Admin Report",
-                   weekly_admin_body + "\n" + "\n" + get_test_results(), admin_email)
-        write_log("Sent admin email at {} to {}".format(
-            get_time(), admin_email))
-        edit_counter(None, 0, "./counter.txt")
+            weekly_admin_body = "Here is the weekly report:\nTotal searches this week: {}\nTotal searches: {}\nSent at {} PST".format(get_counter("./counter.txt")[1],
+                                                                                                                                      get_counter("./counter.txt")[0], get_time())
+            check_sent_admin_email = True
+            sum_counter(get_counter("counter.txt")[1], 0, "./counter.txt")
+            send_email("Toronto Co-op Housing Search: Admin Report",
+                       weekly_admin_body + "\n" + "\n" + get_test_results(), admin_email)
+            write_log("Sent admin email at {} to {}".format(
+                get_time(), admin_email))
+            edit_counter(None, 0, "./counter.txt")
 
-    if (check_sent_admin_email == True and get_week_day() != "Sunday"):
+        if (check_sent_admin_email == True and get_week_day() != "Sunday"):
 
-        recipients = get_email("./email_addresses.txt")
-        check_sent_admin_email = False
-        write_log("Admin boolean set to false at {}".format(get_time()))
+            recipients = get_email("./email_addresses.txt")
+            check_sent_admin_email = False
+            write_log("Admin boolean set to false at {}".format(get_time()))
 
-    if (coop_bool):
+        if (coop_bool):
 
-        if (coop_string == coop_test):
-            write_log(
-                "System: {}. Co-ops are available, but no new co-ops were found. Next search in {:.0f} minutes.".format(get_time(), time_interval))
-            sum_counter(0, 1, "./counter.txt")
-            wait_time(time_interval)
+            if (coop_string == coop_test):
+                write_log(
+                    "System: {}. Co-ops are available, but no new co-ops were found. Next search in {:.0f} minutes.".format(get_time(), time_interval))
+                sum_counter(0, 1, "./counter.txt")
+                wait_time(time_interval)
+
+            else:
+                coop_test = coop_string
+                email_body_cp_avail = "One or more co-ops are available. View below:\n{}View the website here: https://co-ophousingtoronto.coop/resources/find-a-coop/".format(
+                    coop_string)
+                send_email(
+                    "Toronto Co-op Housing Search: Coop Available!", email_body_cp_avail, recipients)
+                write_log(
+                    "System: {}. Co-op vacancy found. Sending email to {}. Next search in {:.0f} minutes.".format(get_time(), recipients, time_interval))
+                sum_counter(0, 1, "./counter.txt")
+                wait_time(time_interval)
 
         else:
-            coop_test = coop_string
-            email_body_cp_avail = "One or more co-ops are available. View below:\n{}View the website here: https://co-ophousingtoronto.coop/resources/find-a-coop/".format(
-                coop_string)
-            send_email(
-                "Toronto Co-op Housing Search: Coop Available!", email_body_cp_avail, recipients)
+            coop_test = None
             write_log(
-                "System: {}. Co-op vacancy found. Sending email to {}. Next search in {:.0f} minutes.".format(get_time(), recipients, time_interval))
+                "System: {}. No co-op vacancies found. Next search in {:.0f} minutes.".format(get_time(), time_interval))
             sum_counter(0, 1, "./counter.txt")
             wait_time(time_interval)
 
-    else:
-        coop_test = None
-        write_log(
-            "System: {}. No co-op vacancies found. Next search in {:.0f} minutes.".format(get_time(), time_interval))
-        sum_counter(0, 1, "./counter.txt")
+    except:
+        print("Error occurred at {}. Next search attempt in {} minutes.".format(
+            get_time(), time_interval))
         wait_time(time_interval)
