@@ -76,14 +76,14 @@ def write_log(message):
     file.close
 
 
-def sum_counter(add: int):
+def sum_counter(add_total: int, add_weekly: int, text_file):
     """
     Sums the entered args with the current values in counter.text file.
 
     Args:
-        add (int): New value to add to the counter. 
+        add (int): New value to add to the counter. add_total is the first line, add_weekly is the second line in the counter.txt file. 
     """
-    with open("./counter.txt", 'r') as f:
+    with open(text_file, 'r') as f:
         lines_from_file = f.readlines()
         f.close()
 
@@ -96,7 +96,7 @@ def sum_counter(add: int):
     for lines in lines_list:
         line_list_int.append(int(lines))
 
-    to_add = [add]
+    to_add = [add_total, add_weekly]
 
     for i in range(len(line_list_int)):
         line_list_int[i] += to_add[i]
@@ -132,7 +132,43 @@ def get_counter(text_file):
     for lines in lines_list:
         line_list_int.append(int(lines))
 
-    return line_list_int[0]
+    return line_list_int[0], line_list_int[1]
+
+
+def edit_counter(top_line, bottom_line, text_file):
+    """
+    Edits the "./counter.txt" file.
+
+    Args:
+        top_line (any): Set to an int, or "None" for no change.
+        bottom_line (any): Int input, changes second line (weekly counter)
+        text_file (.txt file): counter.txt file.
+    """
+    with open(text_file, 'r') as f:
+        lines_from_file = f.readlines()
+        f.close()
+
+    lines_list = []
+    for line in lines_from_file:
+        line = line.replace("\n", "")
+        lines_list.append(line)
+
+    line_list_int = []
+    for lines in lines_list:
+        line_list_int.append(int(lines))
+
+    if (top_line == None):
+        line_list_int[1] = bottom_line
+    else:
+        line_list_int[0], line_list_int[1] = top_line, bottom_line
+
+    lines_list = []
+    for line_int in line_list_int:  # change back to string
+        lines_list.append(str(line_int) + "\n")
+
+    with open("./counter.txt", "w") as f:
+        f.writelines(lines_list)
+        f.close()
 
 
 def wait_time(time_to_wait: float):
@@ -163,15 +199,15 @@ while True:
 
     if (get_week_day() == "Sunday" and check_time() >= 9 and check_sent_admin_email == False):
 
-        weekly_admin_body = "Here is the weekly report:\nTotal searches this week: {}\nTotal searches: {}\nSent at {} PST".format(weekly_total,
-                                                                                                                                  get_counter("./counter.txt"), get_time())
+        weekly_admin_body = "Here is the weekly report:\nTotal searches this week: {}\nTotal searches: {}\nSent at {} PST".format(get_counter("./counter.txt")[1],
+                                                                                                                                  get_counter("./counter.txt")[0], get_time())
         check_sent_admin_email = True
-        sum_counter(weekly_total)
+        sum_counter(get_counter("counter.txt")[1], 0, "./counter.txt")
         send_email("Toronto Co-op Housing Search: Admin Report",
                    weekly_admin_body + "\n" + "\n" + get_test_results(), admin_email)
         write_log("Sent admin email at {} to {}".format(
             get_time(), admin_email))
-        weekly_total = 0
+        edit_counter(None, 0, "./counter.txt")
 
     if (check_sent_admin_email == True and get_week_day() != "Sunday"):
 
@@ -184,7 +220,7 @@ while True:
         if (coop_string == coop_test):
             write_log(
                 "System: {}. Co-ops are available, but no new co-ops were found. Next search in {:.0f} minutes.".format(get_time(), time_interval))
-            weekly_total += 1
+            sum_counter(0, 1, "./counter.txt")
             wait_time(time_interval)
 
         else:
@@ -195,12 +231,12 @@ while True:
                 "Toronto Co-op Housing Search: Coop Available!", email_body_cp_avail, recipients)
             write_log(
                 "System: {}. Co-op vacancy found. Sending email to {}. Next search in {:.0f} minutes.".format(get_time(), recipients, time_interval))
-            weekly_total += 1
+            sum_counter(0, 1, "./counter.txt")
             wait_time(time_interval)
 
     else:
         coop_test = None
         write_log(
             "System: {}. No co-op vacancies found. Next search in {:.0f} minutes.".format(get_time(), time_interval))
-        weekly_total += 1
+        sum_counter(0, 1, "./counter.txt")
         wait_time(time_interval)
