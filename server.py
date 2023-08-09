@@ -4,18 +4,6 @@ from scraping import *
 from send_email import *
 
 
-def create_txt_files():
-    """
-    Creates required text files
-    """
-    file1 = open('log.txt', 'r+')
-    file1.close()
-    file2 = open('email_addresses.txt', 'r+')
-    file2.close()
-    file3 = open('counter.txt', 'r+')
-    file3.close()
-
-
 def get_time():
     """
     Gets full date in yyyy/mm/dd hh:mm format
@@ -147,23 +135,6 @@ def get_counter(text_file):
     return line_list_int[0]
 
 
-def get_percentage(numerator: int, denominator: int):
-    """
-    Gets percentage and ensures no division by zero error.
-
-    Args:
-        numerator (int): Numerator
-        denominator (int): Denominator
-
-    Returns:
-        Int: Returns result multiplied by 100
-    """
-    if denominator == 0:
-        return 0
-    else:
-        return ((numerator / denominator) * 100)
-
-
 def wait_time(time_to_wait: float):
     """
     Enter time that program will sleep for, in minutes.
@@ -175,7 +146,6 @@ def wait_time(time_to_wait: float):
                ((time.time() - start_time) % (60 * time_to_wait)))
 
 
-create_txt_files()
 recipients = get_email("./email_addresses.txt")
 admin_email = "anthonyargatoff@gmail.com"
 check_sent_admin_email = False
