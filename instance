@@ -11,7 +11,7 @@ then
     fi
 elif [ $1 = "start" ]
 then
-    nohup python3 ./server.py > output.log 2>&1 &
+    nohup python3 ./server.py > output.txt 2>&1 &
     pid=$!
     echo "Starting on PID: $pid" 
 elif [ $1 = 'fg' ]
