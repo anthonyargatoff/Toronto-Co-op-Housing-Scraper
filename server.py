@@ -183,7 +183,7 @@ def wait_time(time_to_wait: float):
 
 
 # recipients = get_email("./email_addresses.txt")
-admin_email = "anthonyargatoff@gmail.com"
+admin_email = ["anthonyargatoff@gmail.com"]
 check_sent_admin_email = False
 coop_test = None
 weekly_total = int()
