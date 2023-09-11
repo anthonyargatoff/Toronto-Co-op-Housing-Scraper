@@ -2,12 +2,6 @@ web_scraping/
 furlong/
 .vscode/
 __pycache__/
-email_addresses
-total_times_checked
-email_addresses.txt
-total_times_checked.txt
 log.txt
-counter
-counter.txt
 programming.code-workspace
 output.log
