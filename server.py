@@ -184,6 +184,10 @@ def wait_time(time_to_wait: float):
 
 # recipients = get_email("./email_addresses.txt")
 admin_email = ["anthonyargatoff@gmail.com"]
+sender_email_address = 'autoanthonyemailer@gmail.com'
+sender_email_password = 'mcqjkvigmieaywva'
+sender_email_server = 'smtp.gmail.com'
+sender_email_port = '465'
 check_sent_admin_email = False
 coop_test = None
 weekly_total = int()
@@ -201,11 +205,11 @@ while True:
         if (get_week_day() == "Sunday" and check_time() >= 9 and check_sent_admin_email == False):
 
             sum_counter(get_counter("counter.txt")[1], 0, "./counter.txt")
-            weekly_admin_body = "Here is the weekly report:\nTotal searches this week: {}\nTotal searches: {}\nSent at {} PST".format(get_counter("./counter.txt")[1],
-                                                                                                                                      get_counter("./counter.txt")[0], get_time())
+            weekly_admin_body = "Here is the weekly report:\nTotal searches this week: {}\nTotal searches: {}\nSent at {} PST".format(
+                get_counter("./counter.txt")[1], get_counter("./counter.txt")[0], get_time())
             check_sent_admin_email = True
             send_email("Toronto Co-op Housing Search: Admin Report",
-                       weekly_admin_body + "\n" + "\n" + get_test_results(), admin_email)
+                       weekly_admin_body + "\n" + "\n" + get_test_results(), admin_email, sender_email_address, sender_email_password, sender_email_server, sender_email_port)
             write_log("Sent admin email at {} to {}".format(
                 get_time(), admin_email))
             edit_counter(None, 0, "./counter.txt")
@@ -228,7 +232,7 @@ while True:
                 email_body_cp_avail = "One or more co-ops are available. View below:\n{}View the website here: https://co-ophousingtoronto.coop/resources/find-a-coop/".format(
                     coop_string)
                 send_email(
-                    "Toronto Co-op Housing Search: Coop Available!", email_body_cp_avail, get_email("./email_addresses.txt"))
+                    "Toronto Co-op Housing Search: Coop Available!", email_body_cp_avail, get_email("./email_addresses.txt"), sender_email_address, sender_email_password, sender_email_server, sender_email_port)
                 write_log(
                     "System: {}. Co-op vacancy found. Sending email to {}. Next search in {:.0f} minutes.".format(get_time(), get_email("./email_addresses"), time_interval))
                 sum_counter(0, 1, "./counter.txt")
@@ -241,7 +245,7 @@ while True:
             sum_counter(0, 1, "./counter.txt")
             wait_time(time_interval)
 
-    except:
-        print("Error occurred at {}. Next search attempt in {} minutes.".format(
-            get_time(), time_interval))
+    except Exception as error:
+        print("Error {} occurred at {}. Next search attempt in {} minutes.".format(
+            error, get_time(), time_interval))
         wait_time(time_interval)
