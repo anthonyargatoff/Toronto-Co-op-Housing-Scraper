@@ -1,4 +1,4 @@
-import requests
+from requests_html import HTMLSession
 from bs4 import BeautifulSoup
 
 
@@ -10,7 +10,8 @@ def get_test_results():
         String: A string containing a table of all the residences and their vacancy status, as well as the number of each.
     """
     URL = "https://co-ophousingtoronto.coop/resources/find-a-coop/"
-    page = requests.get(URL)
+    session = HTMLSession()
+    page = session.get(URL)
     soup = BeautifulSoup(page.content, 'html.parser')
     coop_table = soup.find("div", class_="coop-table")
     vacancies = coop_table.find_all("div", class_="coop-field vacancies")
@@ -36,6 +37,7 @@ def get_test_results():
 
     return test_results_string
 
+print(get_test_results())
 
 def get_vacancies():
     """
@@ -47,10 +49,11 @@ def get_vacancies():
 
     """
     URL = "https://co-ophousingtoronto.coop/resources/find-a-coop/"
-    page = requests.get(URL)
-    soup = BeautifulSoup(page.content, 'html.parser')
-    coop_table = soup.find("div", class_="coop-table")
-    vacancies = coop_table.find_all("div", class_="coop-field vacancies")
+    session = HTMLSession() # Create an HTMLSession object
+    page = session.get(URL) # Get the raw HTML from the website using htmlsession
+    soup = BeautifulSoup(page.content, 'html.parser') # Create bs4 object so we can parse the data
+    coop_table = soup.find("div", class_="coop-table") # Return the coop-table only
+    vacancies = coop_table.find_all("div", class_="coop-field vacancies") # Return vacancies only
     vacancies_text = []
     coop_names_text = []
 
