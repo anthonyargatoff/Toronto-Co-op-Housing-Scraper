@@ -11,11 +11,13 @@ then
     fi
 elif [ $1 = "start" ]
 then
+    source furlong/bin/activate
     nohup python3 ./server.py > output.txt 2>&1 &
     pid=$!
     echo "Starting on PID: $pid" 
 elif [ $1 = 'fg' ]
 then
+    source furlong/bin/activate
     python3 ./server.py
 else
     echo "Unrecognized option. Use 'start' or 'stop' or 'fg'."

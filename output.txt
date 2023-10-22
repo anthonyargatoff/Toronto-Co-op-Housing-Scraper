@@ -1,0 +1,1518 @@
+Server is running with frequency of 10 minutes.
+Error HTTPSConnectionPool(host='co-ophousingtoronto.coop', port=443): Max retries exceeded with url: /resources/find-a-coop/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f46acbe9cc0>: Failed to resolve 'co-ophousingtoronto.coop' ([Errno -3] Temporary failure in name resolution)")) occurred at Date: 2023/10/11 Time: 20:06. Next search attempt in 10 minutes.
+System: Date: 2023/10/11 Time: 20:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/11 Time: 20:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/11 Time: 20:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/11 Time: 20:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/11 Time: 20:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/11 Time: 21:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/11 Time: 21:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/11 Time: 21:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/11 Time: 21:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/11 Time: 21:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/11 Time: 21:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/11 Time: 22:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/11 Time: 22:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/11 Time: 22:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/11 Time: 22:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/11 Time: 22:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/11 Time: 22:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/11 Time: 23:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/11 Time: 23:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/11 Time: 23:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/11 Time: 23:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/11 Time: 23:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/11 Time: 23:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 00:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 00:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 00:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 00:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 00:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 00:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 01:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 01:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 01:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 01:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 01:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 01:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 02:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 02:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 02:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 02:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 02:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 02:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 03:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 03:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 03:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 03:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 03:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 03:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 04:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 04:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 04:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 04:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 04:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 04:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 05:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 05:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 05:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 05:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 05:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 05:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 06:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 06:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 06:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 06:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 06:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 06:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 07:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 07:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 07:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 07:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 07:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 07:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 08:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 08:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 08:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 08:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 08:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 08:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 09:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 09:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 09:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 09:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 09:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 09:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 10:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 10:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 10:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 10:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 10:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 10:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 11:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 11:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 11:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 11:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 11:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 11:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 12:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 12:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 12:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 12:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 12:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 12:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 13:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 13:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 13:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 13:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 13:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 13:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 14:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 14:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 14:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 14:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 14:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 14:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 15:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 15:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 15:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 15:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 15:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 15:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 16:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 16:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 16:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 16:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 16:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 16:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 17:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 17:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 17:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 17:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 17:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 17:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 18:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 18:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 18:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 18:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 18:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 18:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 19:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 19:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 19:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 19:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 19:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 19:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 20:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 20:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 20:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 20:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 20:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 20:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 21:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 21:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 21:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 21:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 21:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 21:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 22:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 22:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 22:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 22:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 22:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 22:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 23:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 23:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 23:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 23:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 23:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/12 Time: 23:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 00:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 00:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 00:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 00:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 00:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 00:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 01:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 01:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 01:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 01:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 01:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 01:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 02:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 02:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 02:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 02:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 02:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 02:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 03:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 03:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 03:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 03:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 03:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 03:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 04:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 04:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 04:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 04:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 04:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 04:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 05:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 05:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 05:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 05:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 05:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 05:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 06:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 06:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 06:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 06:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 06:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 06:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 07:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 07:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 07:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 07:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 07:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 07:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 08:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 08:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 08:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 08:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 08:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 08:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 09:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 09:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 09:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 09:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 09:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 09:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 10:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 10:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 10:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 10:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 10:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 10:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 11:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 11:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 11:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 11:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 11:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 11:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 12:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 12:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 12:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 12:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 12:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 12:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 13:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 13:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 13:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 13:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 13:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 13:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 14:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 14:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 14:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 14:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 14:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 14:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 15:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 15:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 15:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 15:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 15:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 15:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 16:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 16:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 16:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 16:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 16:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 16:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 17:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 17:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 17:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 17:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 17:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 17:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 18:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 18:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 18:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 18:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 18:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 18:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 19:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 19:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 19:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 19:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 19:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 19:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 20:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 20:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 20:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 20:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 20:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 20:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 21:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 21:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 21:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 21:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 21:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 21:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 22:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 22:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 22:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 22:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 22:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 22:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 23:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 23:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 23:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 23:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 23:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/13 Time: 23:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 00:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 00:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 00:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 00:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 00:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 00:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 01:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 01:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 01:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 01:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 01:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 01:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 02:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 02:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 02:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 02:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 02:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 02:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 03:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 03:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 03:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 03:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 03:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 03:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 04:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 04:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 04:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 04:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 04:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 04:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 05:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 05:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 05:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 05:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 05:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 05:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 06:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 06:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 06:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 06:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 06:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 06:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 07:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 07:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 07:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 07:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 07:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 07:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 08:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 08:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 08:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 08:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 08:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 08:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 09:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 09:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 09:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 09:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 09:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 09:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 10:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 10:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 10:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 10:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 10:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 10:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 11:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 11:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 11:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 11:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 11:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 11:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 12:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 12:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 12:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 12:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 12:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 12:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 13:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 13:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 13:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 13:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 13:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 13:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 14:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 14:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 14:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 14:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 14:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 14:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 15:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 15:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 15:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 15:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 15:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 15:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 16:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 16:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 16:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 16:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 16:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 16:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 17:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 17:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 17:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 17:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 17:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 17:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 18:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 18:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 18:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 18:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 18:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 18:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 19:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 19:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 19:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 19:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 19:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 19:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 20:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 20:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 20:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 20:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 20:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 20:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 21:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 21:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 21:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 21:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 21:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 21:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 22:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 22:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 22:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 22:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 22:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 22:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 23:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 23:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 23:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 23:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 23:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/14 Time: 23:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 00:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 00:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 00:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 00:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 00:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 00:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 01:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 01:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 01:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 01:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 01:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 01:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 02:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 02:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 02:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 02:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 02:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 02:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 03:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 03:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 03:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 03:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 03:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 03:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 04:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 04:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 04:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 04:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 04:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 04:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 05:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 05:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 05:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 05:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 05:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 05:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 06:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 06:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 06:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 06:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 06:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 06:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 07:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 07:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 07:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 07:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 07:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 07:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 08:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 08:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 08:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 08:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 08:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 08:56. No co-op vacancies found. Next search in 10 minutes.
+Sent admin email at Date: 2023/10/15 Time: 09:06 to ['anthonyargatoff@gmail.com']
+System: Date: 2023/10/15 Time: 09:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 09:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 09:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 09:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 09:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 09:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 10:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 10:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 10:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 10:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 10:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 10:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 11:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 11:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 11:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 11:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 11:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 11:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 12:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 12:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 12:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 12:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 12:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 12:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 13:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 13:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 13:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 13:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 13:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 13:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 14:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 14:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 14:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 14:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 14:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 14:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 15:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 15:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 15:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 15:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 15:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 15:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 16:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 16:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 16:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 16:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 16:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 16:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 17:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 17:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 17:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 17:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 17:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 17:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 18:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 18:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 18:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 18:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 18:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 18:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 19:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 19:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 19:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 19:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 19:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 19:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 20:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 20:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 20:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 20:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 20:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 20:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 21:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 21:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 21:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 21:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 21:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 21:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 22:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 22:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 22:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 22:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 22:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 22:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 23:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 23:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 23:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 23:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 23:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/15 Time: 23:56. No co-op vacancies found. Next search in 10 minutes.
+Admin boolean set to false at Date: 2023/10/16 Time: 00:06
+System: Date: 2023/10/16 Time: 00:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/16 Time: 00:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/16 Time: 00:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/16 Time: 00:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/16 Time: 00:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/16 Time: 00:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/16 Time: 01:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/16 Time: 01:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/16 Time: 01:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/16 Time: 01:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/16 Time: 01:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/16 Time: 01:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/16 Time: 02:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/16 Time: 02:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/16 Time: 02:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/16 Time: 02:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/16 Time: 02:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/16 Time: 02:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/16 Time: 03:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/16 Time: 03:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/16 Time: 03:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/16 Time: 03:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/16 Time: 03:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/16 Time: 03:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/16 Time: 04:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/16 Time: 04:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/16 Time: 04:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/16 Time: 04:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/16 Time: 04:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/16 Time: 04:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/16 Time: 05:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/16 Time: 05:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/16 Time: 05:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/16 Time: 05:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/16 Time: 05:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/16 Time: 05:56. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/16 Time: 06:06. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/16 Time: 06:16. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/16 Time: 06:26. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/16 Time: 06:36. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/16 Time: 06:46. No co-op vacancies found. Next search in 10 minutes.
+System: Date: 2023/10/16 Time: 06:56. No co-op vacancies found. Next search in 10 minutes.
+Error [Errno 2] No such file or directory: './email_addresses' occurred at Date: 2023/10/16 Time: 07:06. Next search attempt in 10 minutes.
+System: Date: 2023/10/16 Time: 07:16. Co-ops are available, but no new co-ops were found. Next search in 10 minutes.
+System: Date: 2023/10/16 Time: 07:26. Co-ops are available, but no new co-ops were found. Next search in 10 minutes.
+System: Date: 2023/10/16 Time: 07:36. Co-ops are available, but no new co-ops were found. Next search in 10 minutes.
+System: Date: 2023/10/16 Time: 07:46. Co-ops are available, but no new co-ops were found. Next search in 10 minutes.
+System: Date: 2023/10/16 Time: 07:56. Co-ops are available, but no new co-ops were found. Next search in 10 minutes.
+System: Date: 2023/10/16 Time: 08:06. Co-ops are available, but no new co-ops were found. Next search in 10 minutes.
+System: Date: 2023/10/16 Time: 08:16. Co-ops are available, but no new co-ops were found. Next search in 10 minutes.
+System: Date: 2023/10/16 Time: 08:26. Co-ops are available, but no new co-ops were found. Next search in 10 minutes.
+System: Date: 2023/10/16 Time: 08:36. Co-ops are available, but no new co-ops were found. Next search in 10 minutes.
+System: Date: 2023/10/16 Time: 08:46. Co-ops are available, but no new co-ops were found. Next search in 10 minutes.
+System: Date: 2023/10/16 Time: 08:56. Co-ops are available, but no new co-ops were found. Next search in 10 minutes.
+System: Date: 2023/10/16 Time: 09:06. Co-ops are available, but no new co-ops were found. Next search in 10 minutes.
+System: Date: 2023/10/16 Time: 09:16. Co-ops are available, but no new co-ops were found. Next search in 10 minutes.
+System: Date: 2023/10/16 Time: 09:26. Co-ops are available, but no new co-ops were found. Next search in 10 minutes.
+System: Date: 2023/10/16 Time: 09:36. Co-ops are available, but no new co-ops were found. Next search in 10 minutes.
+System: Date: 2023/10/16 Time: 09:46. Co-ops are available, but no new co-ops were found. Next search in 10 minutes.
+System: Date: 2023/10/16 Time: 09:56. Co-ops are available, but no new co-ops were found. Next search in 10 minutes.
+System: Date: 2023/10/16 Time: 10:06. Co-ops are available, but no new co-ops were found. Next search in 10 minutes.
+System: Date: 2023/10/16 Time: 10:16. Co-ops are available, but no new co-ops were found. Next search in 10 minutes.
+System: Date: 2023/10/16 Time: 10:26. Co-ops are available, but no new co-ops were found. Next search in 10 minutes.
+System: Date: 2023/10/16 Time: 10:36. Co-ops are available, but no new co-ops were found. Next search in 10 minutes.
+System: Date: 2023/10/16 Time: 10:46. Co-ops are available, but no new co-ops were found. Next search in 10 minutes.
+System: Date: 2023/10/16 Time: 10:56. Co-ops are available, but no new co-ops were found. Next search in 10 minutes.
+System: Date: 2023/10/16 Time: 11:06. Co-ops are available, but no new co-ops were found. Next search in 10 minutes.
+System: Date: 2023/10/16 Time: 11:16. Co-ops are available, but no new co-ops were found. Next search in 10 minutes.
+System: Date: 2023/10/16 Time: 11:26. Co-ops are available, but no new co-ops were found. Next search in 10 minutes.
+System: Date: 2023/10/16 Time: 11:36. Co-ops are available, but no new co-ops were found. Next search in 10 minutes.
+System: Date: 2023/10/16 Time: 11:46. Co-ops are available, but no new co-ops were found. Next search in 10 minutes.
+System: Date: 2023/10/16 Time: 11:56. Co-ops are available, but no new co-ops were found. Next search in 10 minutes.
+System: Date: 2023/10/16 Time: 12:06. Co-ops are available, but no new co-ops were found. Next search in 10 minutes.
+System: Date: 2023/10/16 Time: 12:16. Co-ops are available, but no new co-ops were found. Next search in 10 minutes.
+System: Date: 2023/10/16 Time: 12:26. Co-ops are available, but no new co-ops were found. Next search in 10 minutes.
+System: Date: 2023/10/16 Time: 12:36. Co-ops are available, but no new co-ops were found. Next search in 10 minutes.
+System: Date: 2023/10/16 Time: 12:46. Co-ops are available, but no new co-ops were found. Next search in 10 minutes.
+System: Date: 2023/10/16 Time: 12:56. Co-ops are available, but no new co-ops were found. Next search in 10 minutes.
+System: Date: 2023/10/16 Time: 13:06. Co-ops are available, but no new co-ops were found. Next search in 10 minutes.
+System: Date: 2023/10/16 Time: 13:16. Co-ops are available, but no new co-ops were found. Next search in 10 minutes.
+System: Date: 2023/10/16 Time: 13:26. Co-ops are available, but no new co-ops were found. Next search in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/16 Time: 13:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/16 Time: 13:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/16 Time: 13:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/16 Time: 14:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/16 Time: 14:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/16 Time: 14:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/16 Time: 14:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/16 Time: 14:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/16 Time: 14:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/16 Time: 15:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/16 Time: 15:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/16 Time: 15:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/16 Time: 15:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/16 Time: 15:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/16 Time: 15:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/16 Time: 16:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/16 Time: 16:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/16 Time: 16:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/16 Time: 16:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/16 Time: 16:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/16 Time: 16:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/16 Time: 17:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/16 Time: 17:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/16 Time: 17:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/16 Time: 17:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/16 Time: 17:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/16 Time: 17:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/16 Time: 18:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/16 Time: 18:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/16 Time: 18:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/16 Time: 18:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/16 Time: 18:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/16 Time: 18:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/16 Time: 19:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/16 Time: 19:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/16 Time: 19:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/16 Time: 19:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/16 Time: 19:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/16 Time: 19:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/16 Time: 20:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/16 Time: 20:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/16 Time: 20:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/16 Time: 20:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/16 Time: 20:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/16 Time: 20:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/16 Time: 21:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/16 Time: 21:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/16 Time: 21:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/16 Time: 21:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/16 Time: 21:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/16 Time: 21:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/16 Time: 22:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/16 Time: 22:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/16 Time: 22:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/16 Time: 22:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/16 Time: 22:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/16 Time: 22:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/16 Time: 23:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/16 Time: 23:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/16 Time: 23:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/16 Time: 23:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/16 Time: 23:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/16 Time: 23:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 00:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 00:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 00:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 00:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 00:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 00:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 01:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 01:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 01:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 01:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 01:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 01:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 02:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 02:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 02:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 02:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 02:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 02:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 03:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 03:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 03:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 03:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 03:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 03:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 04:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 04:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 04:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 04:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 04:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 04:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 05:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 05:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 05:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 05:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 05:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 05:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 06:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 06:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 06:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 06:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 06:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 06:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 07:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 07:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 07:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 07:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 07:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 07:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 08:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 08:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 08:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 08:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 08:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 08:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 09:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 09:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 09:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 09:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 09:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 09:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 10:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 10:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 10:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 10:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 10:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 10:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 11:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 11:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 11:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 11:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 11:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 11:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 12:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 12:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 12:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 12:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 12:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 12:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 13:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 13:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 13:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 13:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 13:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 13:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 14:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 14:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 14:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 14:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 14:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 14:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 15:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 15:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 15:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 15:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 15:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 15:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 16:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 16:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 16:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 16:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 16:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 16:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 17:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 17:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 17:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 17:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 17:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 17:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 18:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 18:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 18:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 18:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 18:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 18:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 19:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 19:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 19:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 19:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 19:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 19:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 20:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 20:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 20:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 20:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 20:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 20:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 21:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 21:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 21:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 21:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 21:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 21:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 22:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 22:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 22:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 22:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 22:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 22:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 23:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 23:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 23:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 23:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 23:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/17 Time: 23:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 00:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 00:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 00:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 00:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 00:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 00:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 01:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 01:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 01:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 01:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 01:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 01:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 02:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 02:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 02:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 02:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 02:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 02:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 03:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 03:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 03:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 03:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 03:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 03:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 04:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 04:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 04:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 04:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 04:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 04:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 05:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 05:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 05:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 05:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 05:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 05:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 06:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 06:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 06:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 06:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 06:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 06:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 07:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 07:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 07:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 07:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 07:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 07:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 08:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 08:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 08:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 08:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 08:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 08:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 09:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 09:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 09:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 09:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 09:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 09:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 10:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 10:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 10:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 10:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 10:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 10:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 11:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 11:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 11:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 11:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 11:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 11:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 12:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 12:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 12:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 12:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 12:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 12:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 13:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 13:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 13:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 13:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 13:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 13:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 14:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 14:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 14:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 14:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 14:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 14:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 15:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 15:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 15:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 15:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 15:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 15:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 16:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 16:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 16:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 16:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 16:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 16:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 17:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 17:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 17:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 17:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 17:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 17:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 18:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 18:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 18:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 18:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 18:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 18:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 19:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 19:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 19:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 19:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 19:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 19:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 20:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 20:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 20:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 20:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 20:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 20:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 21:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 21:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 21:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 21:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 21:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 21:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 22:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 22:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 22:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 22:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 22:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 22:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 23:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 23:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 23:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 23:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 23:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/18 Time: 23:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 00:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 00:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 00:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 00:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 00:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 00:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 01:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 01:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 01:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 01:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 01:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 01:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 02:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 02:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 02:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 02:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 02:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 02:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 03:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 03:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 03:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 03:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 03:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 03:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 04:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 04:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 04:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 04:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 04:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 04:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 05:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 05:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 05:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 05:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 05:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 05:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 06:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 06:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 06:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 06:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 06:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 06:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 07:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 07:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 07:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 07:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 07:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 07:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 08:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 08:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 08:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 08:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 08:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 08:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 09:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 09:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 09:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 09:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 09:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 09:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 10:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 10:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 10:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 10:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 10:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 10:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 11:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 11:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 11:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 11:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 11:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 11:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 12:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 12:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 12:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 12:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 12:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 12:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 13:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 13:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 13:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 13:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 13:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 13:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 14:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 14:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 14:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 14:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 14:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 14:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 15:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 15:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 15:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 15:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 15:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 15:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 16:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 16:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 16:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 16:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 16:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 16:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 17:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 17:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 17:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 17:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 17:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 17:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 18:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 18:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 18:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 18:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 18:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 18:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 19:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 19:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 19:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 19:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 19:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 19:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 20:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 20:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 20:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 20:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 20:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 20:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 21:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 21:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 21:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 21:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 21:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 21:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 22:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 22:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 22:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 22:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 22:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 22:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 23:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 23:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 23:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 23:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 23:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/19 Time: 23:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 00:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 00:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 00:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 00:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 00:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 00:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 01:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 01:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 01:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 01:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 01:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 01:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 02:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 02:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 02:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 02:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 02:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 02:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 03:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 03:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 03:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 03:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 03:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 03:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 04:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 04:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 04:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 04:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 04:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 04:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 05:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 05:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 05:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 05:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 05:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 05:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 06:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 06:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 06:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 06:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 06:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 06:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 07:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 07:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 07:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 07:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 07:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 07:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 08:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 08:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 08:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 08:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 08:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 08:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 09:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 09:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 09:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 09:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 09:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 09:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 10:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 10:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 10:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 10:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 10:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 10:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 11:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 11:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 11:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 11:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 11:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 11:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 12:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 12:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 12:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 12:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 12:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 12:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 13:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 13:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 13:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 13:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 13:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 13:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 14:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 14:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 14:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 14:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 14:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 14:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 15:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 15:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 15:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 15:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 15:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 15:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 16:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 16:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 16:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 16:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 16:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 16:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 17:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 17:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 17:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 17:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 17:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 17:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 18:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 18:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 18:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 18:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 18:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 18:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 19:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 19:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 19:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 19:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 19:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 19:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 20:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 20:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 20:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 20:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 20:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 20:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 21:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 21:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 21:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 21:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 21:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 21:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 22:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 22:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 22:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 22:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 22:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 22:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 23:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 23:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 23:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 23:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 23:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/20 Time: 23:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 00:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 00:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 00:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 00:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 00:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 00:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 01:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 01:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 01:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 01:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 01:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 01:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 02:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 02:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 02:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 02:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 02:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 02:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 03:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 03:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 03:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 03:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 03:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 03:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 04:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 04:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 04:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 04:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 04:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 04:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 05:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 05:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 05:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 05:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 05:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 05:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 06:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 06:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 06:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 06:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 06:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 06:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 07:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 07:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 07:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 07:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 07:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 07:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 08:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 08:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 08:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 08:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 08:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 08:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 09:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 09:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 09:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 09:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 09:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 09:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 10:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 10:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 10:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 10:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 10:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 10:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 11:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 11:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 11:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 11:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 11:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 11:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 12:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 12:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 12:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 12:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 12:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 12:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 13:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 13:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 13:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 13:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 13:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 13:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 14:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 14:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 14:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 14:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 14:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 14:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 15:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 15:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 15:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 15:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 15:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 15:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 16:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 16:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 16:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 16:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 16:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 16:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 17:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 17:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 17:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 17:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 17:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 17:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 18:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 18:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 18:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 18:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 18:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 18:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 19:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 19:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 19:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 19:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 19:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 19:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 20:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 20:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 20:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 20:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 20:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 20:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 21:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 21:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 21:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 21:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 21:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 21:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 22:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 22:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 22:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 22:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 22:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 22:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 23:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 23:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 23:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 23:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 23:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/21 Time: 23:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/22 Time: 00:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/22 Time: 00:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/22 Time: 00:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/22 Time: 00:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/22 Time: 00:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/22 Time: 00:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/22 Time: 01:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/22 Time: 01:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/22 Time: 01:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/22 Time: 01:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/22 Time: 01:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/22 Time: 01:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/22 Time: 02:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/22 Time: 02:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/22 Time: 02:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/22 Time: 02:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/22 Time: 02:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/22 Time: 02:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/22 Time: 03:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/22 Time: 03:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/22 Time: 03:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/22 Time: 03:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/22 Time: 03:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/22 Time: 03:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/22 Time: 04:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/22 Time: 04:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/22 Time: 04:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/22 Time: 04:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/22 Time: 04:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/22 Time: 04:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/22 Time: 05:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/22 Time: 05:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/22 Time: 05:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/22 Time: 05:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/22 Time: 05:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/22 Time: 05:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/22 Time: 06:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/22 Time: 06:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/22 Time: 06:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/22 Time: 06:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/22 Time: 06:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/22 Time: 06:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/22 Time: 07:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/22 Time: 07:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/22 Time: 07:26. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/22 Time: 07:36. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/22 Time: 07:46. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/22 Time: 07:56. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/22 Time: 08:06. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/22 Time: 08:16. Next search attempt in 10 minutes.
+Error 'NoneType' object has no attribute 'find_all' occurred at Date: 2023/10/22 Time: 08:26. Next search attempt in 10 minutes.
