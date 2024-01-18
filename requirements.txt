@@ -6,3 +6,4 @@ keyboard==0.13.5
 requests==2.31.0
 soupsieve==2.4.1
 urllib3==2.0.3
+requests-html==0.10.0 

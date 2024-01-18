@@ -1,10 +1,10 @@
-#! /home/anthony/furlong_co-op_scraping/furlong/bin/python3
+#! ~/furlong_co-op_scraping/furlong/bin/python3
 
 import time
 from datetime import datetime
 from scraping import *
 from send_email import *
-
+import json
 
 def get_time():
     """
@@ -41,29 +41,6 @@ def check_time():
     check_time = now.strftime("%H")
     check_time = int(check_time)
     return check_time
-
-
-def get_email(email_text_file):
-    """
-    Create a list of emails from the email_addresses.txt file
-
-    Args:
-        x (list[str]): List of emails addresses.
-
-    Returns:
-        List[str]: Returns a list of strings with emails from text file.
-    """
-    email_file = open(email_text_file, "r")
-    email_list = []
-    for email in email_file:
-        if email.startswith("#"):
-            None
-        else:
-            email = email.replace("\n", "")
-            email_list.append(email)
-    email_file.close()
-    return email_list
-
 
 def write_log(message):
     """
@@ -184,12 +161,27 @@ def wait_time(time_to_wait: float):
                ((time.time() - start_time) % (60 * time_to_wait)))
 
 
-# recipients = get_email("./email_addresses.txt")
-admin_email = ["anthonyargatoff@gmail.com"]
-sender_email_address = 'autoanthonyemailer@gmail.com'
-sender_email_password = 'mcqjkvigmieaywva'
-sender_email_server = 'smtp.gmail.com'
-sender_email_port = '465'
+f = open('emailAddresses.json')
+data = json.load(f)
+
+# Create a list of emails from json file
+emailList = []
+for i in data['emailAddresses']['clientEmailAddresses']:
+    emailList.append(i)
+
+# Assign the admin emailer
+admin_email = []
+for i in data['emailAddresses']['adminEmailAddresses']:
+    admin_email.append(i)
+
+# Assign sender email info
+sender_email_address = data['senderEmailCredentials']['senderEmail']
+sender_email_password = data['senderEmailCredentials']['senderPassword']
+sender_email_server = data['senderEmailCredentials']['senderServer']
+sender_email_port = data['senderEmailCredentials']['senderPort']
+
+f.close()
+
 check_sent_admin_email = False
 coop_test = None
 weekly_total = int()
@@ -234,9 +226,9 @@ while True:
                 email_body_cp_avail = "One or more co-ops are available. View below:\n{}View the website here: https://co-ophousingtoronto.coop/resources/find-a-coop/".format(
                     coop_string)
                 send_email(
-                    "Toronto Co-op Housing Search: Coop Available!", email_body_cp_avail, get_email("./email_addresses.txt"), sender_email_address, sender_email_password, sender_email_server, sender_email_port)
+                    "Toronto Co-op Housing Search: Coop Available!", email_body_cp_avail, emailList, sender_email_address, sender_email_password, sender_email_server, sender_email_port)
                 write_log(
-                    "System: {}. Co-op vacancy found. Sending email to {}. Next search in {:.0f} minutes.".format(get_time(), get_email("./email_addresses"), time_interval))
+                    "System: {}. Co-op vacancy found. Sending email to {}. Next search in {:.0f} minutes.".format(get_time(), emailList, time_interval))
                 sum_counter(0, 1, "./counter.txt")
                 wait_time(time_interval)
 
