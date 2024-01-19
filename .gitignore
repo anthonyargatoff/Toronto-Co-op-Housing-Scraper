@@ -1,0 +1,7 @@
+web_scraping/
+furlong/
+.vscode/
+__pycache__/
+log.txt
+programming.code-workspace
+output.txt
