@@ -38,4 +38,4 @@ This program checks the availability of available co-ops [here](https://co-ophou
 1. Install requirements with `pip install -r requirements.txt`.
 1. On linux, start the server with `./instance start`. To stop, use `./instance stop`.
 1. If on windows, must use process in the terminal. Start with `python ./server.py`.
-1. Emails will be sent whenever a co-op availability is found, and weekly results will be sent on Sundays to admins.
+2. Emails will be sent whenever a co-op availability is found, and weekly results will be sent on Sundays to admins.
