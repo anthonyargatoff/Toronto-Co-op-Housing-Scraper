@@ -1,6 +1,6 @@
 # Toronto Housing Co-op Web Scraper
 
-This program checks the availability of available co-ops [here](https://co-ophousingtoronto.coop/resources/find-a-coop/).
+This program checks the availability of available co-ops [here](https://co-ophousingtoronto.coop/resources/find-a-coop/) and will send email notifications to the recipients when a housing unit has an availabilty. It by default runs every 10 minutes, but can be edited in the code (main.py).
 
 ## How to use
 
