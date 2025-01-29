@@ -204,8 +204,6 @@ while True:
             check_sent_admin_email = True
             send_email("Toronto Co-op Housing Search: Admin Report",
                        weekly_admin_body + "\n" + "\n" + get_test_results(), admin_email, sender_email_address, sender_email_password, sender_email_server, sender_email_port)
-            write_log("Sent admin email at {} to {}".format(
-                get_time(), admin_email))
             edit_counter(None, 0, "./counter.txt")
 
         if (check_sent_admin_email == True and get_week_day() != "Sunday"):
@@ -216,8 +214,6 @@ while True:
         if (coop_bool):
 
             if (coop_string == coop_test):
-                write_log(
-                    "System: {}. Co-ops are available, but no new co-ops were found. Next search in {:.0f} minutes.".format(get_time(), time_interval))
                 sum_counter(0, 1, "./counter.txt")
                 wait_time(time_interval)
 
@@ -227,19 +223,15 @@ while True:
                     coop_string)
                 send_email(
                     "Toronto Co-op Housing Search: Coop Available!", email_body_cp_avail, emailList, sender_email_address, sender_email_password, sender_email_server, sender_email_port)
-                write_log(
-                    "System: {}. Co-op vacancy found. Sending email to {}. Next search in {:.0f} minutes.".format(get_time(), emailList, time_interval))
                 sum_counter(0, 1, "./counter.txt")
                 wait_time(time_interval)
 
         else:
             coop_test = None
-            write_log(
-                "System: {}. No co-op vacancies found. Next search in {:.0f} minutes.".format(get_time(), time_interval))
             sum_counter(0, 1, "./counter.txt")
             wait_time(time_interval)
 
     except Exception as error:
-        print("Error {} occurred at {}. Next search attempt in {} minutes.".format(
+        write_log("Error {} occurred at {}. Next search attempt in {} minutes.".format(
             error, get_time(), time_interval))
         wait_time(time_interval)
