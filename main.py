@@ -1,4 +1,4 @@
-#! ~/furlong_co-op_scraping/furlong/bin/python3
+#! /usr/bin/env python3
 
 import time
 from datetime import datetime
