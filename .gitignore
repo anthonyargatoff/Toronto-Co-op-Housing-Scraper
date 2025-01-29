@@ -5,3 +5,6 @@ __pycache__/
 log.txt
 programming.code-workspace
 output.txt
+venv
+counter*
+emailAddresses.json

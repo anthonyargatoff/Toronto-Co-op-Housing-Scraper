@@ -188,7 +188,7 @@ weekly_total = int()
 total = int()
 
 start_time = time.time()
-time_interval = 10  # float(input("Enter search frequency in minutes:"))
+time_interval = 1  # float(input("Enter search frequency in minutes:"))
 print("Server is running with frequency of {:.0f} minutes.".format(
     time_interval))
 
