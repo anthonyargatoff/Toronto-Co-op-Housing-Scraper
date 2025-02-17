@@ -1,4 +1,5 @@
 import sqlite3
+import os
 from dotenv import load_dotenv
 from scraping import *
 from send_email import *
@@ -6,12 +7,11 @@ from send_email import *
 con = sqlite3.connect("toronto.db")
 cur = con.cursor()
 
-
 def compareVacancies():
     try:
         print("Searching...")
         incomingVacancies = get_vacancies()
-        
+
         # Set statistics
         cur.execute("UPDATE statistics SET totalCount = totalCount + 1 WHERE id = 1;")
         con.execute()
@@ -61,14 +61,30 @@ def compareVacancies():
                     con.commit()
                     newVacancies.append(incomingVacancy)
 
-        # TODO: Send emails with newVacancies lists
+        # Send emails with newVacancies lists
         if len(newVacancies):
+            load_dotenv(override=True)
             print("Sending Emails")
+
+            # Format vacancies string
+            vacanciesString = ""
+            for newVacancy in newVacancies:
+                vacanciesString += "Name: {0}. Availability: {1}\n".format(
+                    newVacancies["name"], newVacancies["vacancy"]
+                )
+
+            recipientList = os.getenv("EMAIL_ADDRESSES").split(",")
+
             send_email(
                 subject="New co-op found",
-                body=""
+                body="New co-ops have been found:\n\n" + vacanciesString,
+                recipients=recipientList,
+                email_account=os.getenv("SENDER_EMAIL"),
+                email_password=os.getenv("SENDER_PASSWORD"),
+                email_server=os.getenv("SENDER_SERVER"),
+                email_server_port_number="SENDER_PORT",
             )
             print(newVacancies)
-            
+
     except Exception as error:
         raise (error)
