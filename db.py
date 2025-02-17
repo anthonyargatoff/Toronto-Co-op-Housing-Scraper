@@ -19,6 +19,8 @@ def createSchema():
                 totalCount INTEGER,
                 weeklyCount INTEGER
             );
+            
+            INSERT INTO statistics(totalCount, weeklyCount) VALUES(0, 0);
             """
         )
     except Exception as error:
