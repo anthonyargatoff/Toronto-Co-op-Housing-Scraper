@@ -8,3 +8,5 @@ output.txt
 venv
 counter*
 emailAddresses.json
+*.db
+.env
