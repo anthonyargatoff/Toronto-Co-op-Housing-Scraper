@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 from scraping import *
 from send_email import *
 
-load_dotenv()
+load_dotenv(override=True)
 con = sqlite3.connect("toronto.db")
 cur = con.cursor()
 
