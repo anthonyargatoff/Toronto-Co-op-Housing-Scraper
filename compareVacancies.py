@@ -5,7 +5,6 @@ from scraping import get_vacancies
 from send_email import *
 
 
-
 def compareVacancies():
     con = sqlite3.connect("toronto.db")
     cur = con.cursor()
