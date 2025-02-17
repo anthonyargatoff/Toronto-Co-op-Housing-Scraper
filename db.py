@@ -11,7 +11,7 @@ def createSchema():
             CREATE TABLE coop(
                 id INTEGER PRIMARY KEY,
                 name TEXT,
-                availability INTEGER,
+                availability INTEGER
             );
 
             CREATE TABLE statistics(
