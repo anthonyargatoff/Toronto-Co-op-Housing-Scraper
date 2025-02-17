@@ -1,8 +1,11 @@
-import os
 import schedule
-from dotenv import load_dotenv
-from scraping import *
+import time
 from compareVacancies import compareVacancies
+from adminReport import adminReport
+    
+schedule.every(1).minutes.do(compareVacancies)
+schedule.every().sunday.at("08:00").do(adminReport)
 
-schedule.every(1).minutes.do(compareVacancies())
-schedule.every().sunday.at("8:00").do() # TODO: send admin email update
+while True:
+    schedule.run_pending()
+    time.sleep(1)

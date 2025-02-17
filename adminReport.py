@@ -9,6 +9,8 @@ def adminReport():
     query = cur.execute("SELECT totalCount, weeklyCount FROM statistics;")
     result = query.fetchone()
     
+    cur.execute("UPDATE statistics SET weeklyCount = 0;")
+    
     adminList = os.getenv("ADMIN_EMAIL_ADDRESSES").split(",")
     send_email(
         subject="Admin weekly report",
@@ -19,6 +21,8 @@ def adminReport():
         email_server=os.getenv("SENDER_SERVER"),
         email_server_port_number=os.getenv("SENDER_PORT"),
     )
+    
+    con.close()
     
 if __name__ == "__main__":
     adminReport()
