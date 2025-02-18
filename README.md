@@ -12,4 +12,4 @@ This program checks the availability of available co-ops [here](https://co-ophou
 1. Run the program with `python3 ./main.py`
 
 ## No hup -- Run in background
-1. To run as background process, use `nohup python3 ./main.py >/dev/null 2>&1 &`
+1. To run as background process, use `nohup /<path>/<to>/<dir>/.venv/bin/python3 -u /<path>/<to>/<dir>/main.py > /<path>/<to>/<dir>/Toronto-Co-op-Housing-Scraper/log.txt 2>&1 &`
