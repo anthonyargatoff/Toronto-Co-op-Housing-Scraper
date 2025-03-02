@@ -11,7 +11,8 @@ def adminReport():
     
     cur.execute("UPDATE statistics SET weeklyCount = 0;")
     
-    adminList = os.getenv("ADMIN_EMAIL_ADDRESSES").split(",")
+    admin = os.getenv("ADMIN_EMAIL_ADDRESSES")
+    adminList = admin.split(",")
     send_email(
         subject="Admin weekly report",
         body="Weekly Searches: {0}\nTotal Searches: {1}".format(result[1], result[0]),
@@ -21,6 +22,7 @@ def adminReport():
         email_server=os.getenv("SENDER_SERVER"),
         email_server_port_number=os.getenv("SENDER_PORT"),
     )
+    print("Sending admin report")
     
     con.close()
     
