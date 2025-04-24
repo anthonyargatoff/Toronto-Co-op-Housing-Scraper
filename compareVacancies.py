@@ -3,6 +3,7 @@ import os
 from dotenv import load_dotenv
 from scraping import get_vacancies
 from send_email import *
+import datetime
 
 
 def compareVacancies():
@@ -10,7 +11,7 @@ def compareVacancies():
     cur = con.cursor()
     
     try:
-        print("Searching...")
+        print("Searching: " + datetime.datetime.now)
         incomingVacancies = get_vacancies()
 
         # Set statistics
@@ -90,7 +91,11 @@ def compareVacancies():
             )
 
     except Exception as error:
-        adminList = os.getenv("ADMIN_EMAIL_ADDRESSES").split(",")
+        admin = os.getenv("ADMIN_EMAIL_ADDRESSES")
+        if (admin.find(",") != -1):
+            adminList = admin.split(",")
+        else:
+            adminList = admin
         send_email(
             subject="Co-op error",
             body="Error:\n\n {}".format(error),
