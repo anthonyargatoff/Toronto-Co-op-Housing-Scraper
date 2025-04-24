@@ -15,7 +15,7 @@ def adminReport():
     if (admin.find(",") != -1):
         adminList = admin.split(",")
     else:
-        adminList = admin    
+        adminList = [admin]
     
     send_email(
         subject="Admin weekly report",

@@ -11,7 +11,7 @@ def compareVacancies():
     cur = con.cursor()
     
     try:
-        print("Searching: " + datetime.datetime.now)
+        print("Searching:", datetime.datetime.now())
         incomingVacancies = get_vacancies()
 
         # Set statistics
@@ -95,7 +95,8 @@ def compareVacancies():
         if (admin.find(",") != -1):
             adminList = admin.split(",")
         else:
-            adminList = admin
+            adminList = [admin]
+        print(error)
         send_email(
             subject="Co-op error",
             body="Error:\n\n {}".format(error),

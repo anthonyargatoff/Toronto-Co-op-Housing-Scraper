@@ -15,10 +15,11 @@ def send_email(subject:str, body:str, recipients:list[str], email_account:str, e
         email_server (str): The SMTP server name (probably google SMTP servers).
         email_server_port_number (int): The port number of the SMTP server.
     """      
+    
     msg = MIMEText(body)
     msg['Subject'] = subject
     msg['From'] = email_account
-    msg['To'] = ', '.join(recipients)
+    msg['To'] = ', '.join(recipients) if len(recipients) > 1 else recipients[0]
     with smtplib.SMTP_SSL(email_server, email_server_port_number) as smtp_server:
         smtp_server.login(email_account, email_password)
         smtp_server.sendmail(email_account,
