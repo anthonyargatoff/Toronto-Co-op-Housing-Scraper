@@ -91,7 +91,8 @@ def compareVacancies():
             )
 
     except Exception as error:
-        admin = os.getenv("ADMIN_EMAIL_ADDRESSES")
+        admin = os.getenv("ADMIN_EMAIL_ADDRESSES", "")
+        adminList = ''
         if (admin.find(",") != -1):
             adminList = admin.split(",")
         else:
