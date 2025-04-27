@@ -1,6 +1,7 @@
 import os
 from send_email import send_email
 import sqlite3
+from dotenv import load_dotenv
 
 def adminReport():
     con = sqlite3.connect("toronto.db")
@@ -10,13 +11,15 @@ def adminReport():
     
     cur.execute("UPDATE statistics SET weeklyCount = 0;")
     
-    admin = os.getenv("ADMIN_EMAIL_ADDRESSES")
+    load_dotenv(override=True)
+    admin = os.getenv("ADMIN_EMAIL_ADDRESSES", "")
     adminList = ''
     if (admin.find(",") != -1):
         adminList = admin.split(",")
     else:
         adminList = [admin]
     
+    print(adminList)
     send_email(
         subject="Admin weekly report",
         body="Weekly Searches: {0}\nTotal Searches: {1}".format(result[1], result[0]),
