@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 from scraping import get_vacancies
 from send_email import *
 import datetime
-
+import traceback
 
 def compareVacancies():
     con = sqlite3.connect("toronto.db")
@@ -75,10 +75,16 @@ def compareVacancies():
             vacanciesString = ""
             for newVacancy in newVacancies:
                 vacanciesString += "Name: {0}. Availability: {1}\n".format(
-                    newVacancies["name"], newVacancies["vacancy"]
+                    newVacancy["name"], newVacancy["vacancy"]
                 )
 
-            recipientList = os.getenv("EMAIL_ADDRESSES").split(",")
+            # recipientList = os.getenv("EMAIL_ADDRESSES").split(",")
+            recipient = os.getenv("EMAIL_ADDRESSES", "")
+            recipientList = ""
+            if (recipient.find(",") != -1):
+                recipientList = recipient.split(",")
+            else:
+                recipientList = [recipient]
 
             send_email(
                 subject="New co-op found",
@@ -97,10 +103,11 @@ def compareVacancies():
             adminList = admin.split(",")
         else:
             adminList = [admin]
-        print(error)
+        errorDetails = traceback.format_exc()
+        print(errorDetails)
         send_email(
             subject="Co-op error",
-            body="Error:\n\n {}".format(error),
+            body="Error:\n\n {}".format(errorDetails),
             recipients=adminList,
             email_account=os.getenv("SENDER_EMAIL"),
             email_password=os.getenv("SENDER_PASSWORD"),
